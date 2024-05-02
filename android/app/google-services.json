@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211147679472",
+    "project_id": "snackchat-3db34",
+    "storage_bucket": "snackchat-3db34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211147679472:android:eaa11851f1b8bf71dd4435",
+        "android_client_info": {
+          "package_name": "com.anonymous.snackchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAmFHXZmrE7hyaxLjxfrQkzQ-WYBl5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
